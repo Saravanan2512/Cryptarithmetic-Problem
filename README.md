@@ -73,8 +73,8 @@ Begin<br>
 End<br>
 <hr>
 <h2>Sample Input and Output:</h2>
-```
-
+<pre>
+<code>
 from itertools import permutations
 def solve_cryptarithmetic():
     for perm in permutations(range(10), 8):
@@ -95,8 +95,9 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
+</code>
+</pre>
 
-```
 <h2>Output:</h2>
 ![image](https://github.com/user-attachments/assets/22623871-3a69-422c-ac11-e46919e10103)
 
