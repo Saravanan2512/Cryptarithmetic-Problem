@@ -73,6 +73,11 @@ Begin<br>
 End<br>
 <hr>
 <h2>Sample Input and Output:</h2>
+SEND = 9567<br>
+MORE = 1085<br>
+<hr>
+MONEY = 10652<br>
+<hr>
 <pre>
 <code>
 from itertools import permutations
@@ -98,13 +103,10 @@ else:
 </code>
 </pre>
 
-<h2>Output:</h2>
-![image](https://github.com/user-attachments/assets/22623871-3a69-422c-ac11-e46919e10103)
+<h1>Output:</h1>
 
-SEND = 9567<br>
-MORE = 1085<br>
-<hr>
-MONEY = 10652<br>
-<hr>
-<h2>Result:</h2>
+
+![Screenshot 2025-04-24 181634](https://github.com/user-attachments/assets/7451dd64-d422-4fa7-a2ab-46d9f496eb28)
+
+<h1>Result:</h1>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
